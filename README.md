@@ -1,2 +1,2 @@
-# Box Smart Pointer in Rust
-Learning Box Smart Pointer in Rust Programming Language
+# RC Smart Pointer in Rust
+Learning RC Smart Pointer in Rust Programming Language
