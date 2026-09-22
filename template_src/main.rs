@@ -3,7 +3,7 @@
 // Educational and Practice Rust Programming Language Code
 
 // Project: Learning Chapter 15
-// Goal: ...
+// Goal: Using RC Smart Pointer
 // Dependency: Without dependency
 
 // rustc 1.100.0-nightly (1303417c4 2026-09-21)
