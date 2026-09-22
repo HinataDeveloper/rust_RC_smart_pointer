@@ -1,1 +1,1 @@
-# Learning RC SMart Pointer in Rust Programming Language
+# Learning RC Smart Pointer in Rust Programming Language
